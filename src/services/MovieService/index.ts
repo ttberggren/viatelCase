@@ -7,6 +7,8 @@ import {
   MovieDetails,
 } from "./types";
 
+// I'm aware that the api key is out in the open here.
+// But I figure that this was the easy approach and if someone wishes to use it to search for movies, then I guess it's fine
 export const apiKey = "243b90dc13b4b0d1873be91668787dc2";
 
 export const movieApi = createApi({
