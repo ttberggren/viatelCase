@@ -6,7 +6,10 @@ Repository belonging to Thomas Berggren
 
 This app is built in Expo for easy and quick implementations
 
-## Issues
+## Screenshots
+
+<img width="334" alt="image" src="https://github.com/ttlenell/viatelCase/assets/55179117/191f61c0-2b82-4e66-90bb-e34390af65f6">
+<img width="334" alt="image" src="https://github.com/ttlenell/viatelCase/assets/55179117/e50c688f-e0ea-40db-95d9-ca1c55282200">
 
 
 ## Getting Started
