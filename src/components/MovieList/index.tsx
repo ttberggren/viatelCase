@@ -3,6 +3,7 @@ import { FlashList } from "@shopify/flash-list";
 import MovieListItem from "../MovieListItem";
 import { IMovieListProps } from "./types";
 
+// Only handles the rendering the list of movies
 const MovieList: FC<IMovieListProps> = ({ data }) => {
   return (
     <FlashList
