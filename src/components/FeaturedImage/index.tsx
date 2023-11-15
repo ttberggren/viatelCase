@@ -1,4 +1,3 @@
-// FeaturedImage component
 import React, { FC } from "react";
 import { StyleSheet } from "react-native";
 import { Image } from "expo-image";
